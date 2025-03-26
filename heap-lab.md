@@ -81,7 +81,7 @@ def _sift_down(self, i):
 ```python
 code python
 ```
-[Capture รูปส่งตรงนี้]
+[Capture รูปส่งตรงนี้] ![alt text](image.png)
 
 ### แบบฝึกหัดที่ 2: การลบค่า
 จากข้อ 1 จงเขียนลำดับการลบค่าสูงสุดออกจาก Heap จำนวน 3 ครั้ง แสดงข้อมูล Heap หลังจากลบแต่ละครั้ง
@@ -89,7 +89,7 @@ code python
 ```python
 code python
 ```
-[Capture รูปส่งตรงนี้]
+[Capture รูปส่งตรงนี้] ![alt text](image-1.png)
 
 ### แบบฝึกหัดที่ 3: การเขียนโปรแกรม
 จงเขียนฟังก์ชัน `is_max_heap(arr)` ที่รับ array เข้ามาและตรวจสอบว่าป็น Max Heap หรือไม่ 
@@ -97,7 +97,7 @@ code python
 ```python
 code python
 ```
-[Capture รูปส่งตรงนี้]
+[Capture รูปส่งตรงนี้] ![alt text](image-2.png)
 
 
 ## การประยุกต์ใช้งานจริง
@@ -131,7 +131,7 @@ er.add_patient(Patient("คนไข้ B", 3))  # ปวดท้อง
 er.add_patient(Patient("คนไข้ C", 2))  # กระดูกหัก
 ```
 
-[Capture รูปผลการทดลองส่งตรงนี้]
+[Capture รูปผลการทดลองส่งตรงนี้] ![alt text](image-3.png)
 
 ### 2. ระบบแนะนำสินค้าขายดี (Top K Items)
 ```python
@@ -157,7 +157,7 @@ ranking.update_sales("สินค้า B", 150)
 ranking.update_sales("สินค้า C", 80)
 ranking.update_sales("สินค้า D", 200)
 ```
-[Capture รูปผลการทดลองส่งตรงนี้]
+[Capture รูปผลการทดลองส่งตรงนี้] ![alt text](image-4.png)
 
 ### 3. ตัวอย่างระบบคิวธนาคาร แบบมีระดับความสำคัญ โดยใช้ heapq
 ```python 
@@ -279,4 +279,4 @@ if __name__ == "__main__":
 ```python
 code python
 ```
-[Capture รูปส่งตรงนี้]
+[Capture รูปส่งตรงนี้] ![alt text](image-5.png)
